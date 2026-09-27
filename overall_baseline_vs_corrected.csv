@@ -1,3 +1,3 @@
 Evaluation,Accuracy,Macro-F1
-Baseline (Random Beat-wise),0.991,0.965
-Corrected (Patient-wise DS1/DS2),0.694,0.369
+Baseline (Random Beat-wise),0.9907,0.9637
+Corrected (Patient-wise DS1/DS2),0.6943,0.3694
